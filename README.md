@@ -8,4 +8,4 @@
 3. The above APIs were utilised to fetch and display user details, repository information and contributors.
 4. Moreover, if you click a specific repostiory and there is a contributor other than the user itself, that contributor can be clicked on and the details for this new user will be listed.
 
-~ Vishrut Tewatia 
+~ Vishrut Tewatia, 22'
